@@ -1,0 +1,13 @@
+games/
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
